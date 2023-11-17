@@ -1,0 +1,14 @@
+[
+  { "name": "Banner", "type": 1 },
+  { "name": "About1", "type": 2 },
+  { "name": "WebSiteVideo", "type": 3 },
+  { "name": "Showcase", "type": 4 },
+  { "name": "Category", "type": 5 },
+  { "name": "PopularProducts", "type": 6 },
+  { "name": "PopularCategories", "type": 7 },
+  { "name": "Feedbacks", "type": 8 },
+  { "name": "Types", "type": 9 },
+  { "name": "Blogs", "type": 10 },
+  { "name": "Sponsor", "type": 11 },
+  { "name": "MoreAboutMe", "type": 12 }
+]
